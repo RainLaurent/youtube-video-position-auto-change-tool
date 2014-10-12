@@ -12,5 +12,5 @@ TODO: <br/>
 [O]6. show video in other tab <br/>
 [O]7. only works html5? <br/>
 
-![alt tag](/csc207/JugPuzzleGame/screenShots/JPG_gui.JPG?raw=true "Normal look")
-![alt tag](/csc207/JugPuzzleGame/screenShots/JPG_gui.JPG?raw=true "Normal look")
+![alt tag](/img/youtube-orig-look.JPG?raw=true "Normal look")
+![alt tag](/img/youtube-scroll-down.JPG?raw=true "Normal look")
