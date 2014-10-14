@@ -1,5 +1,5 @@
 #auto resets video position
-resets when u scroll down 
+a chrome plugin thay resets video position when u scroll down for comment
 sets back when u scroll up
 
 TODO: <br/>
